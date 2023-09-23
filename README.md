@@ -1,2 +1,2 @@
-# frontdesk
+# Roomily
 A room booking system
